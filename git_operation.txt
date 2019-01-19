@@ -1,0 +1,8 @@
+git clone https://github.com/angliAlways24/algrithom-practice.git
+git branch liang
+git checkout liang
+
+git add [filename]
+git commit -m "[message body]"
+git push
+
